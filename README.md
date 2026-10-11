@@ -43,6 +43,4 @@ server.js           static file server + POST /api/login
 test/               unit tests for the validation rules
 ```
 
-## Notes
 
-This is a learning project. It has no sessions, HTTPS or rate limiting, so it is not production-ready.
